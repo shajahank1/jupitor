@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 sha sha 24 Mar 28 12:17 a.txt
+-rw-r--r-- 1 sha sha  0 Mar 28 14:08 goodone.txt
+-rw-r--r-- 1 sha sha 55 Mar 28 12:24 sha.txt
