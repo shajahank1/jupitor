@@ -1,2 +1,3 @@
 sha.txt
 hello word
+addimg ome more loe
